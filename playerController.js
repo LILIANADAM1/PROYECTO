@@ -1,7 +1,4 @@
 
-//import model
-Player = require ('./playerModel');
-Score = require ('./scoreModel');
 
 //handle index actions
 exports.index = function(req, res)
